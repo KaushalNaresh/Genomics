@@ -9,6 +9,7 @@
 1. [Abstract](#abstract)
 2. [Dataset](#dataset)
 3. [Algorithm](#algorithm)
+4. [References](#references)
 
 >## Abstract 
 <div style="text-align: justify">
@@ -41,6 +42,13 @@ Deep neural networks **(DNN)** have achieved break throughs in applications with
 7. *S* = *S* ∪ F<sub>j</sub> and *C* = *C* \ *F*<sub>j</sub>;      
 
 **end while**  
+
+</div>
+
+>## References
+<div style="text-align: justify">
+
+1. Deep Neural Networks for High Dimension, Low Sample Size Data **Bo Liu, Ying Wei, Yu Zhang, Qiang Yang**  Hong Kong University of Science and Technology, Hong Kong.
 
 </div>
 

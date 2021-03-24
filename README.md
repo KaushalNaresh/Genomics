@@ -48,7 +48,7 @@ Deep neural networks **(DNN)** have achieved break throughs in applications with
 >## References
 <div style="text-align: justify">
 
-1. Deep Neural Networks for High Dimension, Low Sample Size Data **Bo Liu, Ying Wei, Yu Zhang, Qiang Yang**  Hong Kong University of Science and Technology, Hong Kong.
+1. Deep Neural Networks for High Dimension, Low Sample Size Data **Bo Liu, Ying Wei, Yu Zhang, Qiang Yang**  Hong Kong University of Science and Technology, Hong Kong. <https://www.ijcai.org/proceedings/2017/0318.pdf>
 
 </div>
 

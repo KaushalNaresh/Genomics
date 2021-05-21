@@ -40,7 +40,7 @@ We chose 3 biological datasets (Prostate-GE, ALLAML and Lung) provided on this [
 6. Initialize **W**<sub>F<sub>j</sub></sub> with Xavier Initializer;  
 7. *S* = *S* ∪ F<sub>j</sub> and *C* = *C* \ *F*<sub>j</sub>;   
   
-You can find the source code in src folder.
+You can find the source code in code folder.
 
 **end while**  
 

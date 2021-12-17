@@ -1,5 +1,5 @@
 # **Readme**
->## **Deep Neural Pursuit**
+>## **Feature Extraction from HDLSS (High Dimension Low Sample Size) data using Deep Neural Networks**
 > Name : Naresh Kumar Kaushal  
 > Id : 170030027, Department : CSE, Term : Fourth Year  
 > BTP advisor : Dr. Clint Pazhayidam George
